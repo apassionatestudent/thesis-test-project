@@ -1,0 +1,1 @@
+For Home, About Us, Services, etc. pages. 

@@ -1,0 +1,1 @@
+The server/services folder is a crucial architectural component in a PERN stack application that serves as a bridge between your controllers and database operations. It encapsulates business logic and database interactions, promoting code reusability and maintainability.
