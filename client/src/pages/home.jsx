@@ -1,26 +1,4 @@
-// 1. First, let's plan out what we need:
-//    - A standalone React component for a home page
-//    - Should contain Lorem ipsum content
-//    - Should look professional and well-structured
-//    - Can utilize ShadcN/UI components for better styling
-// 
-// 2. For the structure:
-//    - Will use Card components for sections
-//    - Can use proper typography with headings
-//    - Should include responsive layout
-//    - Need clear section separation
-// 
-// 3. For the content:
-//    - Will use actual Latin Lorem ipsum text
-//    - Multiple paragraphs for variety
-//    - Headers for organization
-//    - Proper spacing and margins
-// 
-// 4. For accessibility:
-//    - Semantic HTML structure
-//    - Clear heading hierarchy
-//    - Proper contrast ratios
-//    - Keyboard navigation support
+// ./client/src/pages/home.jsx
 
 import React from 'react';
 import {

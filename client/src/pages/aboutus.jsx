@@ -1,21 +1,4 @@
-// 1. Analyzing the requirements:
-//    - Need an About Us page with Lorem ipsum content
-//    - Should complement the previous home page
-//    - Must maintain consistent styling with ShadcN components
-//    - Should be visually distinct but cohesive
-// 
-// 2. Planning the structure:
-//    - Company overview section
-//    - Mission and vision statements
-//    - Team members showcase
-//    - Core values presentation
-//    - Contact information
-// 
-// 3. Component organization:
-//    - Will use Cards for major sections
-//    - Grid layout for team members
-//    - Consistent spacing and typography
-//    - Responsive design principles
+// ./client/src/pages/aboutus.jsx
 
 import React from 'react';
 import {
